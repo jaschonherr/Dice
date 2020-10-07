@@ -50,7 +50,7 @@ void draw() {
       fill(0);
       textSize(30);
       text("You Rolled: " + count, 10, 840);
-      text("Average Roll: " + totalCount/rolls, 10, 880);
+      text("Average Roll: " + (int)totalCount/(int)rolls, 10, 880);
     }
   }
 }
