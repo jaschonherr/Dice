@@ -12,7 +12,7 @@ boolean spinning;
 
 void setup() {
   frameRate(60);
-  size(1908, 900);
+  size(1910, 900);
   
 }
 
